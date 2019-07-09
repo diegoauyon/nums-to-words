@@ -1,0 +1,80 @@
+{
+  "numbers": {
+    "0": [
+      "cero",
+      "uno",
+      "dos",
+      "tres",
+      "cuatro",
+      "cinco",
+      "seis",
+      "siete",
+      "ocho",
+      "nueve"
+    ],
+    "10": [
+      "diez",
+      "once",
+      "doce",
+      "trece",
+      "catorce",
+      "quince",
+      "dieciséis",
+      "diecisiete",
+      "dieciocho",
+      "diecinueve"
+    ],
+    "20": [
+      "veinte",
+      "veintiuno",
+      "veintidós",
+      "veintitrés",
+      "veinticuatro",
+      "veinticinco",
+      "veintiséis",
+      "veintisiete",
+      "veintiocho",
+      "veintinueve"
+    ],
+    "30": "treinta",
+    "40": "cuarenta",
+    "50": "cincuenta",
+    "60": "sesenta",
+    "70": "setenta",
+    "80": "ochenta",
+    "90": "noventa",
+    "100": "cien",
+    "200": "doscientos",
+    "300": "trescientos",
+    "400": "cuatrocientos",
+    "500": "quinientos",
+    "600": "seiscientos",
+    "700": "setecientos",
+    "800": "ochocientos",
+    "900": "novecientos",
+    "1000": "mil",
+    "1000000": {
+      "singular": "millón",
+      "plural": "millones"
+    }
+  },
+  "sexadecimal": {
+    "degree": {
+      "singular": "grado",
+      "plural": "grados"
+    },
+    "minute": {
+      "singular": "minuto",
+      "plural": "minutos"
+    },
+    "second": {
+      "singular": "segundo",
+      "plural": "segundos"
+    }
+  },
+  "connectors": {
+    "dot": "punto",
+    "and": "y",
+    "negative": "menos"
+  }
+}
